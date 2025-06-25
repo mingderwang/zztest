@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/utils/cryptography/ECDSA.sol";
 contract MyContract {
     using ECDSA for bytes32;
 
-    function test(
+    function ming(
         bytes memory signature,
         address from,
         address to
