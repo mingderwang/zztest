@@ -6,7 +6,7 @@
 @openzeppelin/contracts-upgradeable/=lib/openzeppelin-community-contracts/lib/@openzeppelin-contracts-upgradeable/contracts/
 @zk-email/contracts/=lib/openzeppelin-community-contracts/lib/zk-email-verify/packages/contracts/
 @zk-email/email-tx-builder/=lib/openzeppelin-community-contracts/lib/email-tx-builder/packages/contracts/
-account-abstraction/=lib/account-abstraction/contracts/
+account-abstraction/contracts=lib/account-abstraction/contracts/
 axelar-gmp-sdk-solidity/=lib/openzeppelin-community-contracts/lib/axelar-gmp-sdk-solidity/contracts/
 email-tx-builder/=lib/openzeppelin-community-contracts/lib/email-tx-builder/
 erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
